@@ -15,15 +15,9 @@ A lightweight and flexible save system for Unity, designed to be easy to integra
 
 ### Installation
 
-Add the package directly to your Unity project via manifest.json:
+On Unity's Package Manager, click on the + button and add a new package from git URL. Then add the URL https://github.com/juanpablomaggi/GameTools-UnitySaveSystem.git#1.0.2
 
-```json
-"dependencies": {
-  "com.gametools.unitysavesystem": "https://github.com/juanpablomaggi/GameTools-UnitySaveSystem.git#1.0.2"
-}
-```
-
-Open Unity and let the package import automatically.
+Let the package import automatically.
 
 ### Usage
 
