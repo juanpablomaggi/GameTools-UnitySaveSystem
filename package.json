@@ -1,7 +1,7 @@
 {
   "name": "com.shank.gametools.savesystem",
   "displayName": "Shank Game Tools - Save System",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "unity": "2021.3",
   "description": "Custom and extensible save system for unity.",
   "author": {
