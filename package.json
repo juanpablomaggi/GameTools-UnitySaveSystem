@@ -6,5 +6,6 @@
   "description": "Custom and extensible save system for unity.",
   "author": {
     "name": "Juan Pablo Maggi (Shank)"
-  }
+  },
+  "testables": [ "SaveSystem.Tests" ]
 }
