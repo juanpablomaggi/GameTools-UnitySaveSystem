@@ -101,6 +101,10 @@ Open Unity and let the package import automatically.
 
 ---
 
+## Changelog
+
+[Changelog for this project. Latest release 1.0.2](CHANGELOG.md)
+
 ## Future Plans
 
  - [ ] Create a IStorage interface to abstract the storage mechanism (Currently only Binary serialization).
