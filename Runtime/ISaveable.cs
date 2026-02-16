@@ -1,9 +1,9 @@
 namespace SaveSystem
 {
-    public interface ISaveable
+    public interface ISaveable<T>
     {
         string SaveKey { get; } // IMPORTANT: Must be unique for each ISaveable object
-        object CaptureState();
-        void RestoreState(object state);
+        T CaptureState();
+        void RestoreState(T state);
     }
 }
